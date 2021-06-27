@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ericanderson333/doge-graph-app.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ericanderson333/doge-graph-app.git/static/js/main.5ece35ef.chunk.js",
+    "main.js.map": "/ericanderson333/doge-graph-app.git/static/js/main.5ece35ef.chunk.js.map",
+    "runtime-main.js": "/ericanderson333/doge-graph-app.git/static/js/runtime-main.9cccda66.js",
+    "runtime-main.js.map": "/ericanderson333/doge-graph-app.git/static/js/runtime-main.9cccda66.js.map",
+    "static/js/2.44653ce8.chunk.js": "/ericanderson333/doge-graph-app.git/static/js/2.44653ce8.chunk.js",
+    "static/js/2.44653ce8.chunk.js.map": "/ericanderson333/doge-graph-app.git/static/js/2.44653ce8.chunk.js.map",
+    "static/js/3.16aa61ff.chunk.js": "/ericanderson333/doge-graph-app.git/static/js/3.16aa61ff.chunk.js",
+    "static/js/3.16aa61ff.chunk.js.map": "/ericanderson333/doge-graph-app.git/static/js/3.16aa61ff.chunk.js.map",
+    "index.html": "/ericanderson333/doge-graph-app.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ericanderson333/doge-graph-app.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.44653ce8.chunk.js.LICENSE.txt": "/ericanderson333/doge-graph-app.git/static/js/2.44653ce8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ericanderson333/doge-graph-app.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cccda66.js",
+    "static/js/2.44653ce8.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.5ece35ef.chunk.js"
+  ]
+}
